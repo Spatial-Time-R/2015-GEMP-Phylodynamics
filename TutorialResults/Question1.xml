@@ -2,7 +2,7 @@
 
 
     <data
-id="evident_consortium_sequences_NPGP"
+id="evident_consortium_sequences_NPGP_50"
 name="alignment">
                         <sequence id="seq_KR817067_01-Sep-2014" taxon="KR817067_01-Sep-2014" totalcount="4" value="ATGGATTCTCGTCCTCAGAAAGTCTGGATGACGCCGAGTCTCACTGAATCTGACATGGATTACCACAAGATCTTGACAGCAGGTCTGTCCGTTCAACAGGGGATTGTTCGGCAAAGAGTCATCCCAGTGTATCAAGTAAACAATCTTGAGGAAATTTGCCAACTTATCATACAGGCCTTTGAAGCTGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTCTCATGCTTTGTCTTCATCATGCGTACCAAGGAGATTACAAACTTTTCTTGGAAAGTGGCGCAGTCAAGTATTTGGAAGGGCACGGGTTCCGTTTTGAAGTCAAGAAGTGTGATGGAGTGAAGCGCCTTGAGGAATTGCTGCCAGCAGTATCTAGTGGGAGAAACATTAAGAGAACACTTGCTGCCATGCCGGAAGAGGAGACGACTGAAGCTAATGCCGGTCAGTTCCTCTCCTTTGCAAGTCTATTCCTTCCGAAATTGGTAGTAGGAGAAAAGGCTTGCCTTGAGAAGGTTCAAAGGCAAATTCAAGTACATGCAGAGCAAGGACTGATACAATATCCAACAGCTTGGCAATCAGTAGGACACATGATGGTGATTTTCCGTTTGATGCGAACAAATTTTTTGATCAAATTTCTTCTAATACACCAAGGGATGCACATGGTTGCCGGACATGATGCCAACGATGCTGTGATTTCAAATTCAGTGGCTCAAGCTCGTTTTTCAGGTCTATTGATTGTCAAAACAGTACTTGATCATATCCTACAAAAGACAGAACGAGGAGTTCGTCTCCATCCTCTTGCAAGGACCGCCAAGGTAAAAAATGAGGTGAACTCCTTCAAGGCTGCACTCAGCTCCCTGGCCAAGCATGGAGAGTATGCTCCTTTCGCCCGACTTTTGAACCTTTCTGGAGTAAATAATCTTGAGCATGGTCTTTTCCCTCAACTGTCGGCAATTGCACTCGGAGTCGCCACAGCCCACGGGAGCACCCTCGCAGGAGTAAATGTTGGAGAACAGTATCAACAGCTCAGAGAGGCAGCCACTGAGGCTGAGAAGCAACTCCAACAATATGCGGAGTCTCGTGAACTTGACCATCTTGGACTTGATGATCAGGAAAAGAAAATTCTTATGAACTTCCATCAGAAAAAGAACGAAATCAGCTTCCAGCAAACAAACGCGATGGTAACTCTAAGAAAAGAGCGCCTGGCCAAGCTGACAGAAGCTATCACTGCTGCATCACTGCCCAAAACAAGTGGACATTACGATGATGATGACGACATTCCCTTTCCAGGACCCATCAATGATGACGACAATCCTGGCCATCAAGATGATGATCCGACTGACTCACAGGATACGACCATTCCCGATGTGGTAGTTGACCCCGATGATGGAGGCTACGGCGAATACCAAAGTTACTCGGAAAACGGCATGAGTGCACCAGATGACTTGGTCCTATTCGATCTAGACGAGGACGACGAGGACACCAAGCCAGTGCCTAACAGATCGACCAAGGGTGGACAACAGAAAAACAGTCAAAAGGGCCAGCATACAGAGGGCAGACAGACACAATCCACGCCAACTCAAAACGTCACAGGCCCTCGCAGAACAATCCACCATGCCAGTGCTCCACTCACGGACAATGACAGAAGAAACGAACCCTCCGGCTCAACCAGCCCTCGCATGCTGACCCCAATCAACGAAGAGGCAGACCCACTGGACGATGCCGACGACGAGACGTCTAGCCTTCCGCCCTTAGAGTCAGATGATGAAGAACAGGACAGGGACGGAACTTCTAACCGCACACCCACTGTCGCCCCACCGGCTCCCGTATACAGAGATCACTCCGAAAAGAAAGAACTCCCGCAAGATGAACAACAAGATCAGGACCACATTCAAGAGGCCAGGAACCAAGACAGTGACAACACCCAGCCAGAACATTCTTTTGAGGAGATGTATCGCCACATTCTAAGATCACAGGGGCCATTTGATGCCGTTTTGTATTATCATATGATGAAGGATGAGCCTGTAGTTTTCAGTACCAGTGATGGTAAAGAGTACACGTATCCGGACTCCCTTGAAGAGGAATATCCACCATGGCTCACTGAAAAAGAGGCCATGAATGATGAGAATAGATTTGTTACACTGGATGGTCAACAATTTTATTGGCCAGTAATGAATCACAGGAATAAATTCATGGCAATCCTGCAACATCATCAGTGAATGGGTGTTACAGGAATATTGCAGTTACCTCGTGATCGATTCAAGAGGACATCATTCTTTCTTTGGGTAATTATCCTTTTCCAAAGAACATTTTCCATCCCGCTTGGAGTTATCCACAATAGTACATTACAGGTTAGTGATGTCGACAAACTAGTTTGTCGTGACAAACTGTCATCCACAAATCAATTGAGATCAGTTGGACTGAATCTCGAGGGGAATGGAGTGGCAACTGACGTGCCATCTGTGACTAAAAGATGGGGCTTCAGGTCCGGTGTCCCACCAAAGGTGGTCAATTATGAAGCTGGTGAATGGGCTGAAAACTGCTACAATCTTGAAATCAAAAAACCTGACGGGAGTGAGTGTCTACCAGCAGCGCCAGACGGGATTCGGGGCTTCCCCCGGTGCCGGTATGTGCACAAAGTATCAGGAACGGGACCATGTGCCGGAGACTTTGCCTTCCACAAAGAGGGTGCTTTCTTCCTGTATGATCGACTTGCTTCCACAGTTATCTACCGAGGAACGACTTTCGCTGAAGGTGTCGTTGCATTTCTGATACTGCCCCAAGCTAAGAAGGACTTCTTCAGCTCACACCCCTTGAGAGAGCCGGTCAATGCAACGGAGGACCCGTCGAGTGGCTATTATTCTACCACAATTAGATATCAGGCTACCGGTTTTGGAACTAATGAGACAGAGTACTTGTTCGAGGTTGACAATTTGACCTACGTCCAACTTGAATCAAGATTCACACCACAGTTTCTGCTCCAGCTGAATGAGACAATATATGCAAGTGGGAAGAGGAGCAACACCACGGGAAAACTAATTTGGAAGGTCAACCCCGAAATTGATACAACAATCGGGGAGTGGGCCTTCTGGGAAACTAAAAAACCTCACTAG"/>
                         <sequence id="seq_KR817068_01-Sep-2014" taxon="KR817068_01-Sep-2014" totalcount="4" value="ATGGATTCTCGTCCTCAGAAAGTCTGGATGACGCCGAGTCTCACTGAATCTGACATGGATTACCACAAGATCTTGACAGCAGGTCTGTCCGTTCAACAGGGGATTGTTCGGCAAAGAGTCATCCCAGTGTATCAAGTAAACAATCTTGAGGAAATTTGCCAACTTATCATACAGGCCTTTGAAGCTGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTCTCATGCTTTGTCTTCATCATGCGTACCAAGGAGATTACAAACTTTTCTTGGAAAGTGGCGCAGTCAAGTATTTGGAAGGGCACGGGTTCCGTTTTGAAGTCAAGAAGTGTGATGGAGTGAAGCGCCTTGAGGAATTGCTGCCAGCAGTATCTAGTGGGAGAAACATTAAGAGAACACTTGCTGCCATGCCGGAAGAGGAGACGACTGAAGCTAATGCCGGTCAGTTCCTCTCCTTTGCAAGTCTATTCCTTCCGAAATTGGTAGTAGGAGAAAAGGCTTGCCTTGAGAAGGTTCAAAGGCAAATTCAAGTACATGCAGAGCAAGGACTGATACAATATCCAACAGCTTGGCAATCAGTAGGACACATGATGGTGATTTTCCGTTTGATGCGAACAAATTTTTTGATCAAATTTCTTCTAATACACCAAGGGATGCACATGGTTGCCGGACATGATGCCAACGATGCTGTGATTTCAAATTCAGTGGCTCAAGCTCGTTTTTCAGGTCTATTGATTGTCAAAACAGTACTTGATCATATCCTACAAAAGACAGAACGAGGAGTTCGTCTCCATCCTCTTGCAAGGACCGCCAAGGTAAAAAATGAGGTGAACTCCTTCAAGGCTGCACTCAGCTCCCTGGCCAAGCATGGAGAGTATGCTCCTTTCGCCCGACTTTTGAACCTTTCTGGAGTAAATAATCTTGAGCATGGTCTTTTCCCTCAACTGTCGGCAATTGCACTCGGAGTCGCCACAGCCCACGGGAGCACCCTCGCAGGAGTAAATGTTGGAGAACAGTATCAACAGCTCAGAGAGGCAGCCACTGAGGCTGAGAAGCAACTCCAACAATATGCGGAGTCTCGTGAACTTGACCATCTTGGACTTGATGATCAGGAAAAGAAAATTCTTATGAACTTCCATCAGAAAAAGAACGAAATCAGCTTCCAGCAAACAAACGCGATGGTAACTCTAAGAAAAGAGCGCCTGGCCAAGCTGACAGAAGCTATCACTGCTGCATCACTGCCCAAAACAAGTGGACATTACGATGATGATGACGACATTCCCTTTCCAGGACCCATCAATGATGACGACAATCCTGGCCATCAAGATGATGATCCGACTGACTCACAGGATACGACCATTCCCGATGTGGTAGTTGACCCCGATGATGGAGGCTACGGCGAATACCAAAGTTACTCGGAAAACGGCATGAGTGCACCAGATGACTTGGTCCTATTCGATCTAGACGAGGACGACGAGGACACCAAGCCAGTGCCTAACAGATCGACCAAGGGTGGACAACAGAAAAACAGTCAAAAGGGCCAGCATACAGAGGGCAGACAGACACAATCCACGCCAACTCAAAACGTCACAGGCCCTCGCAGAACAATCCACCATGCCAGTGCTCCACTCACGGACAATGACAGAAGAAACGAACCCTCCGGCTCAACCAGCCCTCGCATGCTGACCCCAATCAACGAAGAGGCAGACCCACTGGACGATGCCGACGACGAGACGTCTAGCCTTCCGCCCTTAGAGTCAGATGATGAAGAACAGGACAGGGACGGAACTTCTAACCGCACACCCACTGTCGCCCCACCGGCTCCCGTATACAGAGATCACTCCGAAAAGAAAGAACTCCCGCAAGATGAACAACAAGATCAGGACCACATTCAAGAGGCCAGGAACCAAGACAGTGACAACACCCAGCCAGAACATTCTTTTGAGGAGATGTATCGCCACATTCTAAGATCACAGGGGCCATTTGATGCCGTTTTGTATTATCATATGATGAAGGATGAGCCTGTAGTTTTCAGTACCAGTGATGGTAAAGAGTACACGTATCCGGACTCCCTTGAAGAGGAATATCCACCATGGCTCACTGAAAAAGAGGCCATGAATGATGAGAATAGATTTGTTACACTGGATGGTCAACAATTTTATTGGCCAGTAATGAATCACAGGAATAAATTCATGGCAATCCTGCAACATCATCAGTGAATGGGTGTTACAGGAATATTGCAGTTACCTCGTGATCGATTCAAGAGGACATCATTCTTTCTTTGGGTAATTATCCTTTTCCAAAGAACATTTTCCATCCCGCTTGGAGTTATCCACAATAGTACATTACAGGTTAGTGATGTCGACAAACTAGTTTGTCGTGACAAACTGTCATCCACAAATCAATTGAGATCAGTTGGACTGAATCTCGAGGGGAATGGAGTGGCAACTGACGTGCCATCTGTGACTAAAAGATGGGGCTTCAGGTCCGGTGTCCCACCAAAGGTGGTCAATTATGAAGCTGGTGAATGGGCTGAAAACTGCTACAATCTTGAAATCAAAAAACCTGACGGGAGTGAGTGTCTACCAGCAGCGCCAGACGGGATTCGGGGCTTCCCCCGGTGCCGGTATGTGCACAAAGTATCAGGAACGGGACCATGTGCCGGAGACTTTGCCTTCCACAAAGAGGGTGCTTTCTTCCTGTATGATCGACTTGCTTCCACAGTTATCTACCGAGGAACGACTTTCGCTGAAGGTGTCGTTGCATTTCTGATACTGCCCCAAGCTAAGAAGGACTTCTTCAGCTCACACCCCTTGAGAGAGCCGGTCAATGCAACGGAGGACCCGTCGAGTGGCTATTATTCTACCACAATTAGATATCAGGCTACCGGTTTTGGAACTAATGAGACAGAGTACTTGTTCGAGGTTGACAATTTGACCTACGTCCAACTTGAATCAAGATTCACACCACAGTTTCTGCTCCAGCTGAATGAGACAATATATGCAAGTGGGAAGAGGAGCAACACCACGGGAAAACTAATTTGGAAGGTCAACCCCGAAATTGATACAACAATCGGGGAGTGGGCCTTCTGGGAAACTAAAAAACCTCACTAG"/>
@@ -78,8 +78,9 @@ name="alignment">
 
 <run id="mcmc" spec="MCMC" chainLength="10000000">
     <state id="state" storeEvery="5000">
-        <tree id="Tree.t:evident_consortium_sequences_NPGP" name="stateNode">
-            <trait id="dateTrait.t:evident_consortium_sequences_NPGP" spec="beast.evolution.tree.TraitSet" traitname="date">
+        <tree id="Tree.t:evident_consortium_sequences_NPGP_50" name="stateNode">
+            <trait id="dateTrait.t:evident_consortium_sequences_NPGP_50" spec="beast.evolution.tree.TraitSet" traitname="date">
+                
                 KR817113_22-Jul-2014=2014.5833333333333,
 KR817074_09-Sep-2014=2014.7175799086758,
 KR817106_31-Jan-2015=2015.112214611872,
@@ -129,153 +130,154 @@ KR817099_04-Jan-2015=2015.0382420091323,
 KR817080_22-Sep-2014=2014.753196347032,
 KR817083_29-Sep-2014=2014.7723744292236,
 KR817076_13-Sep-2014=2014.7285388127855,
-KR817107_18-Jul-2014=2014.5723744292238                <taxa id="TaxonSet.evident_consortium_sequences_NPGP" spec="TaxonSet">
-                    <alignment idref="evident_consortium_sequences_NPGP"/>
+KR817107_18-Jul-2014=2014.5723744292238                
+                            <taxa id="TaxonSet.evident_consortium_sequences_NPGP_50" spec="TaxonSet">
+                    <alignment idref="evident_consortium_sequences_NPGP_50"/>
                 </taxa>
             </trait>
-            <taxonset idref="TaxonSet.evident_consortium_sequences_NPGP"/>
+            <taxonset idref="TaxonSet.evident_consortium_sequences_NPGP_50"/>
         </tree>
-        <parameter id="clockRate.c:evident_consortium_sequences_NPGP" name="stateNode">1.0</parameter>
-        <parameter id="kappa.s:evident_consortium_sequences_NPGP" lower="0.0" name="stateNode">2.0</parameter>
-        <parameter id="origin.s.t:evident_consortium_sequences_NPGP" lower="0.0" name="stateNode" upper="Infinity">100.0</parameter>
-        <parameter id="samplingProportion.s.t:evident_consortium_sequences_NPGP" lower="0.0" name="stateNode" upper="1.0">0.01</parameter>
-        <parameter id="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP" lower="0.0" name="stateNode" upper="Infinity">1.0</parameter>
-        <parameter id="R0.s.t:evident_consortium_sequences_NPGP" dimension="5" lower="0.0" name="stateNode" upper="Infinity">2.0</parameter>
-        <parameter id="gammaShape.s:evident_consortium_sequences_NPGP" name="stateNode">1.0</parameter>
-        <parameter id="freqParameter.s:evident_consortium_sequences_NPGP" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+        <parameter id="clockRate.c:evident_consortium_sequences_NPGP_50" name="stateNode">1.0</parameter>
+        <parameter id="kappa.s:evident_consortium_sequences_NPGP_50" lower="0.0" name="stateNode">2.0</parameter>
+        <parameter id="gammaShape.s:evident_consortium_sequences_NPGP_50" name="stateNode">1.0</parameter>
+        <parameter id="origin.s.t:evident_consortium_sequences_NPGP_50" lower="0.0" name="stateNode" upper="Infinity">100.0</parameter>
+        <parameter id="samplingProportion.s.t:evident_consortium_sequences_NPGP_50" lower="0.0" name="stateNode" upper="1.0">0.01</parameter>
+        <parameter id="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50" lower="0.0" name="stateNode" upper="Infinity">1.0</parameter>
+        <parameter id="R0.s.t:evident_consortium_sequences_NPGP_50" dimension="5" lower="0.0" name="stateNode" upper="Infinity">2.0</parameter>
+        <parameter id="freqParameter.s:evident_consortium_sequences_NPGP_50" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
     </state>
 
-    <init id="RandomTree.t:evident_consortium_sequences_NPGP" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:evident_consortium_sequences_NPGP" taxa="@evident_consortium_sequences_NPGP">
-        <populationModel id="ConstantPopulation0.t:evident_consortium_sequences_NPGP" spec="ConstantPopulation">
-            <parameter id="randomPopSize.t:evident_consortium_sequences_NPGP" name="popSize">1.0</parameter>
+    <init id="RandomTree.t:evident_consortium_sequences_NPGP_50" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:evident_consortium_sequences_NPGP_50" taxa="@evident_consortium_sequences_NPGP_50">
+        <populationModel id="ConstantPopulation0.t:evident_consortium_sequences_NPGP_50" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:evident_consortium_sequences_NPGP_50" name="popSize">1.0</parameter>
         </populationModel>
     </init>
 
     <distribution id="posterior" spec="util.CompoundDistribution">
         <distribution id="prior" spec="util.CompoundDistribution">
-            <distribution id="BirthDeathSkySerial.t:evident_consortium_sequences_NPGP" spec="beast.evolution.speciation.BirthDeathSkylineModel" R0="@R0.s.t:evident_consortium_sequences_NPGP" becomeUninfectiousRate="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP" origin="@origin.s.t:evident_consortium_sequences_NPGP" samplingProportion="@samplingProportion.s.t:evident_consortium_sequences_NPGP" tree="@Tree.t:evident_consortium_sequences_NPGP"/>
-            <prior id="RPrior.s.t:evident_consortium_sequences_NPGP" name="distribution" x="@R0.s.t:evident_consortium_sequences_NPGP">
+            <distribution id="BirthDeathSkySerial.t:evident_consortium_sequences_NPGP_50" spec="beast.evolution.speciation.BirthDeathSkylineModel" R0="@R0.s.t:evident_consortium_sequences_NPGP_50" becomeUninfectiousRate="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50" origin="@origin.s.t:evident_consortium_sequences_NPGP_50" samplingProportion="@samplingProportion.s.t:evident_consortium_sequences_NPGP_50" tree="@Tree.t:evident_consortium_sequences_NPGP_50"/>
+            <prior id="RPrior.s.t:evident_consortium_sequences_NPGP_50" name="distribution" x="@R0.s.t:evident_consortium_sequences_NPGP_50">
                 <LogNormal id="LogNormalDistributionModel.0" name="distr">
-                    <parameter id="parameter.hyperLogNormalDistributionModel-M-RPrior.s.t:evident_consortium_sequences_NPGP" estimate="false" lower="0.0" name="M" upper="0.0">0.0</parameter>
-                    <parameter id="parameter.hyperLogNormalDistributionModel-S-RPrior.s.t:evident_consortium_sequences_NPGP" estimate="false" lower="0.0" name="S" upper="0.0">1.25</parameter>
+                    <parameter id="parameter.hyperLogNormalDistributionModel-M-RPrior.s.t:evident_consortium_sequences_NPGP_50" estimate="false" lower="0.0" name="M" upper="0.0">0.0</parameter>
+                    <parameter id="parameter.hyperLogNormalDistributionModel-S-RPrior.s.t:evident_consortium_sequences_NPGP_50" estimate="false" lower="0.0" name="S" upper="0.0">1.25</parameter>
                 </LogNormal>
             </prior>
-            <prior id="becomeUninfectiousRatePrior.s.t:evident_consortium_sequences_NPGP" name="distribution" x="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP">
+            <prior id="becomeUninfectiousRatePrior.s.t:evident_consortium_sequences_NPGP_50" name="distribution" x="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50">
                 <Gamma id="Gamma.0" name="distr">
                     <parameter id="RealParameter.0" estimate="false" name="alpha">0.5</parameter>
                     <parameter id="RealParameter.01" estimate="false" name="beta">61.0</parameter>
                 </Gamma>
             </prior>
-            <prior id="ClockPrior.c:evident_consortium_sequences_NPGP" name="distribution" x="@clockRate.c:evident_consortium_sequences_NPGP">
+            <prior id="ClockPrior.c:evident_consortium_sequences_NPGP_50" name="distribution" x="@clockRate.c:evident_consortium_sequences_NPGP_50">
                 <Normal id="Normal.0" name="distr">
                     <parameter id="RealParameter.02" estimate="false" name="mean">0.00142</parameter>
                     <parameter id="RealParameter.03" estimate="false" name="sigma">2.0E-4</parameter>
                 </Normal>
             </prior>
-            <prior id="GammaShapePrior.s:evident_consortium_sequences_NPGP" name="distribution" x="@gammaShape.s:evident_consortium_sequences_NPGP">
+            <prior id="GammaShapePrior.s:evident_consortium_sequences_NPGP_50" name="distribution" x="@gammaShape.s:evident_consortium_sequences_NPGP_50">
                 <Exponential id="Exponential.0" name="distr">
                     <parameter id="RealParameter.04" lower="0.0" name="mean" upper="0.0">1.0</parameter>
                 </Exponential>
             </prior>
-            <prior id="KappaPrior.s:evident_consortium_sequences_NPGP" name="distribution" x="@kappa.s:evident_consortium_sequences_NPGP">
+            <prior id="KappaPrior.s:evident_consortium_sequences_NPGP_50" name="distribution" x="@kappa.s:evident_consortium_sequences_NPGP_50">
                 <LogNormal id="LogNormalDistributionModel.01" name="distr">
                     <parameter id="RealParameter.05" estimate="false" name="M">1.0</parameter>
                     <parameter id="RealParameter.06" estimate="false" name="S">1.25</parameter>
                 </LogNormal>
             </prior>
-            <prior id="originPrior.s.t:evident_consortium_sequences_NPGP" name="distribution" x="@origin.s.t:evident_consortium_sequences_NPGP">
+            <prior id="originPrior.s.t:evident_consortium_sequences_NPGP_50" name="distribution" x="@origin.s.t:evident_consortium_sequences_NPGP_50">
                 <Uniform id="Uniform.0" name="distr" upper="Infinity"/>
             </prior>
-            <prior id="samplingProportionPrior.s.t:evident_consortium_sequences_NPGP" name="distribution" x="@samplingProportion.s.t:evident_consortium_sequences_NPGP">
+            <prior id="samplingProportionPrior.s.t:evident_consortium_sequences_NPGP_50" name="distribution" x="@samplingProportion.s.t:evident_consortium_sequences_NPGP_50">
                 <Beta id="Beta.0" name="distr">
-                    <parameter id="parameter.hyperBeta-alpha-samplingProportionPrior.s.t:evident_consortium_sequences_NPGP" estimate="false" lower="0.0" name="alpha" upper="0.0">10.0</parameter>
-                    <parameter id="parameter.hyperBeta-beta-samplingProportionPrior.s.t:evident_consortium_sequences_NPGP" estimate="false" lower="0.0" name="beta" upper="0.0">6.0</parameter>
+                    <parameter id="parameter.hyperBeta-alpha-samplingProportionPrior.s.t:evident_consortium_sequences_NPGP_50" estimate="false" lower="0.0" name="alpha" upper="0.0">10.0</parameter>
+                    <parameter id="parameter.hyperBeta-beta-samplingProportionPrior.s.t:evident_consortium_sequences_NPGP_50" estimate="false" lower="0.0" name="beta" upper="0.0">6.0</parameter>
                 </Beta>
             </prior>
         </distribution>
         <distribution id="likelihood" spec="util.CompoundDistribution">
-            <distribution id="treeLikelihood.evident_consortium_sequences_NPGP" spec="TreeLikelihood" data="@evident_consortium_sequences_NPGP" tree="@Tree.t:evident_consortium_sequences_NPGP">
-                <siteModel id="SiteModel.s:evident_consortium_sequences_NPGP" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:evident_consortium_sequences_NPGP">
-                    <parameter id="mutationRate.s:evident_consortium_sequences_NPGP" estimate="false" name="mutationRate">1.0</parameter>
-                    <parameter id="proportionInvariant.s:evident_consortium_sequences_NPGP" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
-                    <substModel id="hky.s:evident_consortium_sequences_NPGP" spec="HKY" kappa="@kappa.s:evident_consortium_sequences_NPGP">
-                        <frequencies id="estimatedFreqs.s:evident_consortium_sequences_NPGP" spec="Frequencies" frequencies="@freqParameter.s:evident_consortium_sequences_NPGP"/>
+            <distribution id="treeLikelihood.evident_consortium_sequences_NPGP_50" spec="TreeLikelihood" data="@evident_consortium_sequences_NPGP_50" tree="@Tree.t:evident_consortium_sequences_NPGP_50">
+                <siteModel id="SiteModel.s:evident_consortium_sequences_NPGP_50" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:evident_consortium_sequences_NPGP_50">
+                    <parameter id="mutationRate.s:evident_consortium_sequences_NPGP_50" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="proportionInvariant.s:evident_consortium_sequences_NPGP_50" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="hky.s:evident_consortium_sequences_NPGP_50" spec="HKY" kappa="@kappa.s:evident_consortium_sequences_NPGP_50">
+                        <frequencies id="estimatedFreqs.s:evident_consortium_sequences_NPGP_50" spec="Frequencies" frequencies="@freqParameter.s:evident_consortium_sequences_NPGP_50"/>
                     </substModel>
                 </siteModel>
-                <branchRateModel id="StrictClock.c:evident_consortium_sequences_NPGP" spec="beast.evolution.branchratemodel.StrictClockModel" clock.rate="@clockRate.c:evident_consortium_sequences_NPGP"/>
+                <branchRateModel id="StrictClock.c:evident_consortium_sequences_NPGP_50" spec="beast.evolution.branchratemodel.StrictClockModel" clock.rate="@clockRate.c:evident_consortium_sequences_NPGP_50"/>
             </distribution>
         </distribution>
     </distribution>
 
-    <operator id="StrictClockRateScaler.c:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@clockRate.c:evident_consortium_sequences_NPGP" scaleFactor="0.75" weight="3.0"/>
+    <operator id="StrictClockRateScaler.c:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@clockRate.c:evident_consortium_sequences_NPGP_50" scaleFactor="0.75" weight="3.0"/>
 
-    <operator id="strictClockUpDownOperator.c:evident_consortium_sequences_NPGP" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
-        <up idref="clockRate.c:evident_consortium_sequences_NPGP"/>
-        <down idref="Tree.t:evident_consortium_sequences_NPGP"/>
+    <operator id="strictClockUpDownOperator.c:evident_consortium_sequences_NPGP_50" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="clockRate.c:evident_consortium_sequences_NPGP_50"/>
+        <down idref="Tree.t:evident_consortium_sequences_NPGP_50"/>
     </operator>
 
-    <operator id="KappaScaler.s:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@kappa.s:evident_consortium_sequences_NPGP" scaleFactor="0.5" weight="0.1"/>
+    <operator id="KappaScaler.s:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@kappa.s:evident_consortium_sequences_NPGP_50" scaleFactor="0.5" weight="0.1"/>
 
-    <operator id="BDSKY_serialtreeScaler.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="3.0"/>
+    <operator id="gammaShapeScaler.s:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@gammaShape.s:evident_consortium_sequences_NPGP_50" scaleFactor="0.5" weight="0.1"/>
 
-    <operator id="BDSKY_serialtreeRootScaler.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="3.0"/>
+    <operator id="BDSKY_serialtreeScaler.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="3.0"/>
 
-    <operator id="BDSKY_serialUniformOperator.t:evident_consortium_sequences_NPGP" spec="Uniform" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="30.0"/>
+    <operator id="BDSKY_serialtreeRootScaler.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="3.0"/>
 
-    <operator id="BDSKY_serialSubtreeSlide.t:evident_consortium_sequences_NPGP" spec="SubtreeSlide" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="15.0"/>
+    <operator id="BDSKY_serialUniformOperator.t:evident_consortium_sequences_NPGP_50" spec="Uniform" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="30.0"/>
 
-    <operator id="BDSKY_serialnarrow.t:evident_consortium_sequences_NPGP" spec="Exchange" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="15.0"/>
+    <operator id="BDSKY_serialSubtreeSlide.t:evident_consortium_sequences_NPGP_50" spec="SubtreeSlide" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="15.0"/>
 
-    <operator id="BDSKY_serialwide.t:evident_consortium_sequences_NPGP" spec="Exchange" isNarrow="false" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="3.0"/>
+    <operator id="BDSKY_serialnarrow.t:evident_consortium_sequences_NPGP_50" spec="Exchange" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="15.0"/>
 
-    <operator id="BDSKY_serialWilsonBalding.t:evident_consortium_sequences_NPGP" spec="WilsonBalding" tree="@Tree.t:evident_consortium_sequences_NPGP" weight="3.0"/>
+    <operator id="BDSKY_serialwide.t:evident_consortium_sequences_NPGP_50" spec="Exchange" isNarrow="false" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="3.0"/>
 
-    <operator id="becomeUninfectiousRateScaler.s.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP" scaleFactor="0.75" weight="2.0"/>
+    <operator id="BDSKY_serialWilsonBalding.t:evident_consortium_sequences_NPGP_50" spec="WilsonBalding" tree="@Tree.t:evident_consortium_sequences_NPGP_50" weight="3.0"/>
 
-    <operator id="samplingScaler.s.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@samplingProportion.s.t:evident_consortium_sequences_NPGP" scaleFactor="0.75" weight="2.0"/>
+    <operator id="becomeUninfectiousRateScaler.s.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50" scaleFactor="0.75" weight="2.0"/>
 
-    <operator id="RScaler.s.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@R0.s.t:evident_consortium_sequences_NPGP" scaleFactor="0.75" weight="10.0"/>
+    <operator id="samplingScaler.s.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@samplingProportion.s.t:evident_consortium_sequences_NPGP_50" scaleFactor="0.75" weight="2.0"/>
 
-    <operator id="updownBD.s.t:evident_consortium_sequences_NPGP" spec="UpDownOperator" scaleFactor="0.75" weight="2.0">
-        <up idref="R0.s.t:evident_consortium_sequences_NPGP"/>
-        <down idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP"/>
+    <operator id="RScaler.s.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@R0.s.t:evident_consortium_sequences_NPGP_50" scaleFactor="0.75" weight="10.0"/>
+
+    <operator id="updownBD.s.t:evident_consortium_sequences_NPGP_50" spec="UpDownOperator" scaleFactor="0.75" weight="2.0">
+        <up idref="R0.s.t:evident_consortium_sequences_NPGP_50"/>
+        <down idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50"/>
     </operator>
 
-    <operator id="origScaler.s.t:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@origin.s.t:evident_consortium_sequences_NPGP" scaleFactor="0.75" weight="1.0"/>
+    <operator id="origScaler.s.t:evident_consortium_sequences_NPGP_50" spec="ScaleOperator" parameter="@origin.s.t:evident_consortium_sequences_NPGP_50" scaleFactor="0.75" weight="1.0"/>
 
-    <operator id="gammaShapeScaler.s:evident_consortium_sequences_NPGP" spec="ScaleOperator" parameter="@gammaShape.s:evident_consortium_sequences_NPGP" scaleFactor="0.5" weight="0.1"/>
-
-    <operator id="FrequenciesExchanger.s:evident_consortium_sequences_NPGP" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
-        <parameter idref="freqParameter.s:evident_consortium_sequences_NPGP"/>
+    <operator id="FrequenciesExchanger.s:evident_consortium_sequences_NPGP_50" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:evident_consortium_sequences_NPGP_50"/>
     </operator>
 
-    <logger id="tracelog" fileName="evident_consortium_sequences_NPGP.log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
+    <logger id="tracelog" fileName="evident_consortium_sequences_NPGP_50.log" logEvery="1000" model="@posterior" sanitiseHeaders="true" sort="smart">
         <log idref="posterior"/>
         <log idref="likelihood"/>
         <log idref="prior"/>
-        <log idref="treeLikelihood.evident_consortium_sequences_NPGP"/>
-        <log id="TreeHeight.t:evident_consortium_sequences_NPGP" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:evident_consortium_sequences_NPGP"/>
-        <log idref="clockRate.c:evident_consortium_sequences_NPGP"/>
-        <log idref="kappa.s:evident_consortium_sequences_NPGP"/>
-        <log idref="BirthDeathSkySerial.t:evident_consortium_sequences_NPGP"/>
-        <log idref="origin.s.t:evident_consortium_sequences_NPGP"/>
-        <log idref="samplingProportion.s.t:evident_consortium_sequences_NPGP"/>
-        <log idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP"/>
-        <log idref="R0.s.t:evident_consortium_sequences_NPGP"/>
-        <log id="birth.t:evident_consortium_sequences_NPGP" spec="beast.math.statistic.RPNcalculator" expression="R0.s.t:evident_consortium_sequences_NPGP becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP *">
-            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP"/>
-            <parameter idref="R0.s.t:evident_consortium_sequences_NPGP"/>
+        <log idref="treeLikelihood.evident_consortium_sequences_NPGP_50"/>
+        <log id="TreeHeight.t:evident_consortium_sequences_NPGP_50" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="clockRate.c:evident_consortium_sequences_NPGP_50"/>
+        <log idref="kappa.s:evident_consortium_sequences_NPGP_50"/>
+        <log idref="gammaShape.s:evident_consortium_sequences_NPGP_50"/>
+        <log idref="BirthDeathSkySerial.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="origin.s.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="samplingProportion.s.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="R0.s.t:evident_consortium_sequences_NPGP_50"/>
+        <log idref="freqParameter.s:evident_consortium_sequences_NPGP_50"/>
+        <log id="birth.t:evident_consortium_sequences_NPGP_50" spec="beast.math.statistic.RPNcalculator" expression="R0.s.t:evident_consortium_sequences_NPGP_50 becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50 *">
+            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50"/>
+            <parameter idref="R0.s.t:evident_consortium_sequences_NPGP_50"/>
         </log>
-        <log id="death.t:evident_consortium_sequences_NPGP" spec="beast.math.statistic.RPNcalculator" expression="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP 1 samplingProportion.s.t:evident_consortium_sequences_NPGP - *">
-            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP"/>
-            <parameter idref="samplingProportion.s.t:evident_consortium_sequences_NPGP"/>
+        <log id="death.t:evident_consortium_sequences_NPGP_50" spec="beast.math.statistic.RPNcalculator" expression="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50 1 samplingProportion.s.t:evident_consortium_sequences_NPGP_50 - *">
+            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50"/>
+            <parameter idref="samplingProportion.s.t:evident_consortium_sequences_NPGP_50"/>
         </log>
-        <log id="sampling.t:evident_consortium_sequences_NPGP" spec="beast.math.statistic.RPNcalculator" expression="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP samplingProportion.s.t:evident_consortium_sequences_NPGP *">
-            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP"/>
-            <parameter idref="samplingProportion.s.t:evident_consortium_sequences_NPGP"/>
+        <log id="sampling.t:evident_consortium_sequences_NPGP_50" spec="beast.math.statistic.RPNcalculator" expression="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50 samplingProportion.s.t:evident_consortium_sequences_NPGP_50 *">
+            <parameter idref="becomeUninfectiousRate.s.t:evident_consortium_sequences_NPGP_50"/>
+            <parameter idref="samplingProportion.s.t:evident_consortium_sequences_NPGP_50"/>
         </log>
-        <log idref="gammaShape.s:evident_consortium_sequences_NPGP"/>
-        <log idref="freqParameter.s:evident_consortium_sequences_NPGP"/>
     </logger>
 
     <logger id="screenlog" logEvery="10000">
@@ -285,8 +287,8 @@ KR817107_18-Jul-2014=2014.5723744292238                <taxa id="TaxonSet.eviden
         <log idref="prior"/>
     </logger>
 
-    <logger id="treelog.t:evident_consortium_sequences_NPGP" fileName="$(tree).trees" logEvery="1000" mode="tree">
-        <log id="TreeWithMetaDataLogger.t:evident_consortium_sequences_NPGP" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:evident_consortium_sequences_NPGP"/>
+    <logger id="treelog.t:evident_consortium_sequences_NPGP_50" fileName="$(tree).trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:evident_consortium_sequences_NPGP_50" spec="beast.evolution.tree.TreeWithMetaDataLogger" tree="@Tree.t:evident_consortium_sequences_NPGP_50"/>
     </logger>
 
 </run>
